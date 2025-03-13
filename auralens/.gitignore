@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.env
+mobile_app/android/
+mobile_app/ios/
+data/user_data_encrypted/
+models/
+uploaded_photos_temp/
